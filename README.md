@@ -32,8 +32,3 @@ The project follows the **Model-View-Controller (MVC)** pattern:
 - **Views:** Display search forms and results (`Index.cshtml`, `FlightResults.cshtml`)
 - **Controllers:** Handle user actions, call the API, and render views (`HomeController.cs`, `FlightController.cs`)
 
-## Setup and Configuration
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/FlightSearchWebApp.git
